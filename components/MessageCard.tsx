@@ -285,12 +285,14 @@ export default function MessageCard({
                           {/* Letter body */}
                           <div className="handwriting text-sm sm:text-base leading-relaxed text-[#1b0d14] pb-20 pt-6">
                             <div className="mb-4 text-[#f04299] font-medium">
-                              My dearest Divya,
+                              My dearest Sona,
                             </div>
                             <div
                               className="mb-6 text-justify"
                               style={{ textIndent: '2rem' }}
                             >
+                              In these past six months, you’ve become more than I ever could’ve imagined. 
+                              You’ve become my family.
                               Every moment with you feels like a beautiful dream
                               that I never want to wake up from. I want you to
                               know that you are the most precious person in my

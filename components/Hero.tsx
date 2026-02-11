@@ -192,8 +192,9 @@ export default function Hero({ onOpenGift, isGiftOpened }: HeroProps) {
               transition={{ delay: 0.4 }}
             >
               <p>
-                I Wanted to do something special for you, for this princess day,
-                so I made something special just for you...
+                This was all made for you. I wanted to create something truly special,
+                something you can’t buy anywhere   
+                Just for you...
               </p>
               <p className="pt-3">
                 <span className="font-semibold text-[#f04299]">

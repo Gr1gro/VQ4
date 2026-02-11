@@ -19,24 +19,24 @@ interface Card {
 const cards: Card[] = [
   {
     id: 1,
-    image: '/assets/pic1.png',
-    message: 'I Love u Divya 💕',
+    image: '/assets/photo1.jpg',
+    message: 'I Love u Diva 💕',
     gradient: 'from-pink-200 to-purple-200',
     delay: 0,
   },
   {
     id: 2,
-    image: '/assets/pic2.png',
+    image: '/assets/photo2.jpg',
     message:
-      "You don't even have to try — you just make everything around you feel lighter, warmer, better. ✨",
+      "You don't even have to try - you just make everything around you feel lighter, warmer, better. ✨",
     gradient: 'from-blue-200 to-teal-200',
     delay: 0.2,
   },
   {
     id: 3,
-    image: '/assets/pic3.png',
+    image: '/assets/photo3.jpg',
     message:
-      "The little things you do — your expressions, your laughter, the way you talk — they've all become my favorite details. 🌸",
+      "The little things you do - your expressions, your laughter, the way you talk - they've all become my favorite details. 🌸",
     gradient: 'from-yellow-200 to-orange-200',
     delay: 0.4,
   },

@@ -170,7 +170,7 @@ export default function FinalLetter({ onRestart }: FinalLetterProps) {
 
             <div className="mt-6 flex flex-col sm:flex-row justify-between gap-3 items-center">
               <div className="text-xs text-[#9a4c73]">
-                Sealing will finish the experience.
+                Love youuu endlesslyyy♥️
               </div>
               <div className="flex gap-3 relative">
                 <AnimatePresence>

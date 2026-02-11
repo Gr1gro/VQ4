@@ -264,7 +264,7 @@ export default function Playlist({ onContinue }: PlaylistProps) {
               And let’s remember the days when Wednesdays meant something different
             </h2>
             <div className="text-xs text-[#9a4c73]">
-              Because I've changed everything about myself and the one thing that never changes is that I love you
+              Because I&apos;ve changed everything about myself and the one thing that never changes is that I love you
               <p>Because I know you have a place in your heart for that</p>
             </div>
           </div>

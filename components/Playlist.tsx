@@ -23,21 +23,56 @@ const tracks: Track[] = [
     title: 'Dil Cheeze Tujhe Dedi',
     description: 'You own this heart — dedicated to you 💞',
     image: '/assets/music1.jpg',
-    audio: '/assets/music1-Bpgt1BZ5.mp3',
+    audio: '/assets/music1-1.mp3',
   },
   {
     id: 2,
     title: 'If the world was ending',
     description: "Even if the world ends, I'd still find you 🤍",
     image: '/assets/music2.jpg',
-    audio: '/assets/music2-mdcMq3L1.mp3',
+    audio: '/assets/Dress.mp3',
   },
   {
     id: 3,
     title: 'Dil ka Jo Haal hai',
     description: 'Tu Kaare Dil Bekarar 💞',
     image: '/assets/music3.jpg',
-    audio: '/assets/music3-ClPh4k2q.mp3',
+    audio: '/assets/music3-3.mp3',
+  },
+  {
+    id: 4,
+    title: 'dfdfdffd',
+    description: 'Tu Kaare Dil Bekarar 💞',
+    image: '/assets/music4.jpg',
+    audio: '/assets/music4-4.mp3',
+  },
+  {
+    id: 5,
+    title: 'Dil ka Jo Haal hai',
+    description: 'Tu Kaare Dil Bekarar 💞',
+    image: '/assets/music5.jpg',
+    audio: '/assets/music5-5.mp3',
+  },
+  {
+    id: 6,
+    title: 'Dil ka Jo Haal hai',
+    description: 'Tu Kaare Dil Bekarar 💞',
+    image: '/assets/music6.jpg',
+    audio: '/assets/music6-6.mp3',
+  },
+  {
+    id: 7,
+    title: 'Dil ka Jo Haal hai',
+    description: 'Tu Kaare Dil Bekarar 💞',
+    image: '/assets/music7.jpg',
+    audio: '/assets/music7-7.mp3',
+  },
+  {
+    id: 8,
+    title: 'Dil ka Jo Haal hai',
+    description: 'Tu Kaare Dil Bekarar 💞',
+    image: '/assets/music8.jpg',
+    audio: '/assets/music8-8.mp3',
   },
 ];
 
@@ -230,6 +265,7 @@ export default function Playlist({ onContinue }: PlaylistProps) {
             </h2>
             <div className="text-xs text-[#9a4c73]">
               Because I've changed everything about myself and the one thing that never changes is that I love you
+              <p>Because I know you have a place in your heart for that</p>
             </div>
           </div>
         </div>

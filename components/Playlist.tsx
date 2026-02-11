@@ -22,21 +22,21 @@ const tracks: Track[] = [
     id: 1,
     title: 'Dil Cheeze Tujhe Dedi',
     description: 'You own this heart — dedicated to you 💞',
-    image: '/assets/music1.png',
+    image: '/assets/music1.jpg',
     audio: '/assets/music1-Bpgt1BZ5.mp3',
   },
   {
     id: 2,
     title: 'If the world was ending',
     description: "Even if the world ends, I'd still find you 🤍",
-    image: '/assets/music2.png',
+    image: '/assets/music2.jpg',
     audio: '/assets/music2-mdcMq3L1.mp3',
   },
   {
     id: 3,
     title: 'Dil ka Jo Haal hai',
     description: 'Tu Kaare Dil Bekarar 💞',
-    image: '/assets/music3.png',
+    image: '/assets/music3.jpg',
     audio: '/assets/music3-ClPh4k2q.mp3',
   },
 ];
@@ -226,10 +226,10 @@ export default function Playlist({ onContinue }: PlaylistProps) {
         <div className="flex items-center justify-center gap-3 mb-6">
           <div className="text-center">
             <h2 className="text-[#f04299] text-lg font-bold leading-tight">
-              A Dedicated Playlist For You
+              And let’s remember the days when Wednesdays meant something different
             </h2>
             <div className="text-xs text-[#9a4c73]">
-              I Hope You&apos;ll Like It
+              Because I've changed everything about myself and the one thing that never changes is that I love you
             </div>
           </div>
         </div>

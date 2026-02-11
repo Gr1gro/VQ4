@@ -28,7 +28,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Happy National Princess Day 👑</title>
+        <title> Happy National Princess Day 👑 </title>
         <meta
           name="description"
           content="A special surprise for National Princess Day - A delightful interactive experience with love letters, music, and memories"
@@ -83,7 +83,7 @@ export default function Home() {
 
         <footer className="px-4 py-8 text-center text-text/60">
           <p className="text-sm">
-            National Valentine Day —{'}
+            National Valentine Day —{''}
             {new Date().toLocaleDateString('en-US', {
               year: 'numeric',
               month: 'long',

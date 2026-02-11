@@ -349,7 +349,7 @@ export default function Playlist({ onContinue }: PlaylistProps) {
           ) : (
             <div className="mb-6 h-20 flex items-center justify-center">
               <div className="text-base text-[#9a4c73] font-medium text-center">
-                Choose a track to start vibing ✨
+                Choose a track to start yearning ✨
               </div>
             </div>
           )}

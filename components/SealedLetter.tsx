@@ -202,14 +202,14 @@ export default function SealedLetter({
 
               {onExperienceAgain && (
                 <button
-                  onClick={onExperienceAgain}
+                  onClick={() => (window.location.href = "https://vq5.vercel.app")}
                   className="rounded-full bg-[#f04299] text-white px-5 py-2.5 text-sm sm:text-base font-semibold shadow hover:scale-105 transition cursor-pointer"
                 >
                   Experience Again ✨
                 </button>
               )}
               <button
-                onClick={() => (window.location.href = "https://vq5.vercel.app")}
+                onClick={handleSendKiss}
                 className="rounded-full bg-[#9be7c4] px-5 py-2.5 text-sm sm:text-base font-medium shadow hover:brightness-95 transition cursor-pointer"
               >
                 Send a Virtual Kiss 💋

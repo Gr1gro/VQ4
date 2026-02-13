@@ -40,7 +40,7 @@ export default function FinalLetter({ onRestart }: FinalLetterProps) {
     setTimeout(() => {
       setKissParticles([]);
       setShowSealedPage(true);
-    }, 25000);
+    }, 14000);
   };
 
   if (showSealedPage) {
